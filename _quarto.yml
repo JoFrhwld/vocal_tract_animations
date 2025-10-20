@@ -1,0 +1,40 @@
+project:
+  type: website
+
+license: CC-BY 4.0
+author: Josef Fruehwald
+
+website:
+  title: "Vocal Tract Animations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  site-url: https://jofrhwld.github.io/vocal_tract_animations
+
+format:
+  html:
+      theme: 
+        light: 
+          - brand
+          - flatly
+        dark:
+          - brand
+          - darkly
+      css: styles.css          
+      toc: true
+      grid:
+        body-width: 900px    
+      fontsize: large
+      link-external-newwindow: true
+      mainfont: "Public Sans"
+      monofont: "Roboto Mono"
+      code-link: true
+      lightbox: true    
+      smooth-scroll: true
+      fig-cap-location: margin
+      citation: false
+
+
+

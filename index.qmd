@@ -1,0 +1,149 @@
+---
+title: "Vocal Tract Animations"
+---
+
+::: callout-note
+## Caveats
+
+These are illustrative animations, and anatomical proportions & timings may not be true-to-life.
+:::
+
+These animations are licensed CC-BY 4.0
+
+## Airflow
+
+Nasal Airflow
+
+::::: {layout-ncol="2"}
+<div>
+
+[nasal-airflow.mp4](airflow/nasal-airflow.mp4)
+
+{{< video airflow/nasal-airflow.mp4 >}}
+
+</div>
+
+<div>
+
+[nasal-airflow.gif](airflow/nasal-airflow.gif)
+
+![](airflow/nasal-airflow.gif)
+
+</div>
+:::::
+
+## VOT
+
+:::::: {layout-ncol="2"}
+<div>
+
+Long VOT
+
+[long-vot.mp4](vot/long-vot.mp4)
+
+{{< video vot/long-vot.mp4 >}}
+
+</div>
+
+<div>
+
+Short VOT
+
+[short-vot.mp4](vot/short-vot.mp4)
+
+{{< video vot/short-vot.mp4 >}}
+
+</div>
+
+<div>
+
+Negative VOT
+
+[neg-vot.mp4](vot/neg-vot.mp4)
+
+{{< video vot/neg-vot.mp4 >}}
+
+</div>
+::::::
+
+## Contour
+
+:::::: {layout-ncol="2"}
+::: ipa
+dʒ
+
+[dzh.mp4](contour-segments/dzh.mp4)
+
+{{< video contour-segments/dzh.mp4 >}}
+:::
+
+::: ipa
+l
+
+[light-l.mp4](contour-segments/light-l.mp4)
+
+{{< video contour-segments/light-l.mp4 >}}
+:::
+
+::: ipa
+ɫ
+
+[dark-l.mp4](contour-segments/dark-l.mp4)
+
+{{< video contour-segments/dark-l.mp4 >}}
+:::
+::::::
+
+## Double articulation
+
+::::: {layout-ncol="2"}
+::: ipa
+k͡p
+
+[kp.mp4](double-articulation/kp.mp4)
+
+{{< video double-articulation/kp.mp4 >}}
+:::
+
+::: ipa
+w
+
+[w.mp4](double-articulation/w.mp4)
+
+{{< video double-articulation/w.mp4 >}}
+:::
+:::::
+
+## Non Pulmonic
+
+:::::: {layout-ncol="2"}
+<div>
+
+ejective
+
+[ejective.mp4](non-pulmonic/ejective.mp4)
+
+{{< video non-pulmonic/ejective.mp4 >}}
+
+</div>
+
+<div>
+
+implosive
+
+[implosive.mp4](non-pulmonic/implosive.mp4)
+
+{{< video non-pulmonic/implosive.mp4 >}}
+
+</div>
+
+<div>
+
+click
+
+[click.mp4](non-pulmonic/click.mp4)
+
+{{< video non-pulmonic/click.mp4 >}}
+
+</div>
+::::::
